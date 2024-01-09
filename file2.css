@@ -1,0 +1,1193 @@
+body {
+  font-family: "inter", sans-serif;
+  margin: 0px;
+}
+
+a {
+  text-decoration-line: none;
+}
+.fontSize72pxWhite {
+  font-size: 72px;
+  color: white;
+  font-weight: 700;
+}
+.Search {
+  background-color: black;
+  border-style: groove;
+}
+/* 
+.nasaLi{
+    padding-left: 300px;
+}
+.navPadding2{
+    float: left;
+    width: 50%;
+} 
+ .navPadding{
+    
+} */
+
+.fontSize14pxWhite {
+  font-size: 14px;
+  color: white;
+}
+
+.fontSize16pxWhite {
+  font-size: 16px;
+  color: white;
+}
+.fontSize40pxBlack {
+  font-size: 40px;
+  color: rgb(1, 0, 0);
+}
+
+.fontSize18pxWhite {
+  font-size: 18px;
+  color: white;
+}
+.fontWeinght600 {
+  font-weight: 600;
+}
+
+.fontSize22pxWhite {
+  font-size: 22px;
+  color: white;
+  font-weight: 600;
+}
+
+.fontSize24pxWhite {
+  font-size: 24px;
+  color: white;
+  font-weight: 600;
+}
+
+.fontSize26pxWhite {
+  font-size: 26px;
+  color: white;
+  font-weight: 600;
+}
+.bottom12 {
+  position: relative;
+  bottom: -349px;
+}
+
+.bottom13 {
+  position: relative;
+  bottom: -300px;
+}
+
+.bottom14 {
+  position: relative;
+  bottom: -357px;
+}
+
+.circleImg {
+  width: 70px;
+  height: 70px;
+  object-fit: cover;
+  border-radius: 50px;
+}
+.ParaWidth {
+  width: 100%;
+}
+
+.col1 {
+  float: left;
+  box-sizing: border-box;
+  /* padding: 15px; */
+  padding-left: 10px;
+  padding-right: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.col2 {
+  flex: 1 1 0%;
+}
+
+.col123 {
+  float: left;
+  box-sizing: border-box;
+  padding: 15px;
+}
+
+.ColorW {
+  color: #fff;
+}
+.fontSize14pxblack {
+  font-size: 14px;
+  color: #000;
+}
+
+.fontSize12pxblack {
+  font-size: 12px;
+  color: #000;
+}
+.fontSize22pxblack {
+  font-size: 22px;
+  color: #000;
+  /* font-weight: 600; */
+}
+.fontSize41pxblack {
+  font-size: 41px;
+  color: #000;
+  font-weight: 700;
+}
+
+.fontSize16pxblack {
+  font-size: 16px;
+  color: #000;
+  font-weight: 700;
+}
+.fontSize18pxblack {
+  font-size: 18px;
+  color: #000;
+  font-weight: 700;
+}
+
+.fontSize22pxblack {
+  font-size: 18px;
+  color: #000;
+  font-weight: 700;
+}
+
+.fontSize14pxblack {
+  font-size: 14px;
+  color: #000;
+}
+.fontSize38pxblack {
+  font-size: 38px;
+  color: #000;
+}
+
+.fontSize13pxblack {
+  font-size: 13px;
+  color: #000;
+  /* font-weight: 600; */
+}
+
+/* .navLetter {
+  font-family: "dm-mono" !important;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.7rem;
+  line-height: 1em;
+  letter-spacing: 3.5px;
+  text-transform: uppercase;
+} */
+/* .nav{
+    width: 100%;
+    background-color: #000;
+} */
+
+/* .navBar{
+    display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+} */
+/* ul{
+    list-style-type: none;
+   
+    overflow: hidden;
+}
+li{
+    float: left;
+}
+
+.live{
+background-color: black;
+border-color: red;
+color: white;
+}
+
+.live :hover{
+
+} */
+
+.widthmaintainer1 {
+  width: 48%;
+}
+.widthmaintainer2 {
+  width: 27%;
+}
+.widthmaintainer3 {
+  width: 25%;
+}
+.opacityBlack {
+  background: linear-gradient(65.99deg, #000 0, transparent 99.04%);
+  z-index: 200;
+}
+.mainHeadeImg {
+  position: absolute;
+  bottom: 30px;
+}
+
+.FontFamilyDm-mono {
+  font-family: monospace !important;
+}
+
+.Fontweight900 {
+  font-weight: 900;
+}
+
+.Fontweight800 {
+  font-weight: 800;
+}
+
+.leftToright {
+  justify-content: end;
+  position: relative;
+  top: -33px;
+}
+.leftToright1{
+  justify-content: end;
+  position: relative;
+}
+
+.Fontweight700 {
+  font-weight: 700;
+}
+.Padding10 {
+  padding: 10px !important;
+}
+.Padding5{
+  padding: 5px !important;
+}
+.Bottom_Letter {
+  position: relative;
+  bottom: -180px;
+}
+.colNonPaddingLeft {
+  float: left;
+  box-sizing: border-box;
+  padding-right: 4px;
+  padding-top: 8px;
+  padding-bottom: 15px;
+  /* padding-left: 5px; */
+}
+
+.colNonPaddingRight {
+  float: left;
+  box-sizing: border-box;
+  padding-left: 0px;
+  padding-top: 10px;
+  padding-bottom: 15px;
+  padding-right: 5px;
+}
+
+.Fontweight600 {
+  font-weight: 600;
+}
+
+.Fontweight500 {
+  font-weight: 500;
+}
+
+.fontSize12px {
+  font-size: 12px;
+  color: #fff;
+}
+.width100 {
+  width: 25%;
+}
+
+.flexDirectionRow {
+  flex-direction: row;
+}
+
+.row1 {
+  display: flex;
+  flex-wrap: nowrap;
+}
+.row2 {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.justifyContant {
+  justify-content: center;
+}
+
+.img1 {
+  background-image: linear-gradient(65.99deg, #000 0, transparent 99.04%),
+    url(https://www.nasa.gov/wp-content/uploads/2023/02/balloons-mcmurdo.jpeg?resize=1024,768);
+  height: 407px;
+  background-size: cover;
+  position: relative; /* Add position relative to use z-index */
+  /* z-index: 200; */
+}
+
+.img2 {
+  /* background-image: url(https://www.nasa.gov/wp-content/uploads/2023/11/2worldscrop.jpg?resize=1024,505); */
+
+  background-image: linear-gradient(65.99deg, #000 0, transparent 99.04%),
+    url(https://www.nasa.gov/wp-content/uploads/2023/11/2worldscrop.jpg?resize=1024,505);
+
+  height: 407px;
+  width: auto;
+  background-size: cover;
+  background-position: center;
+}
+.img3 {
+  background-image: linear-gradient(65.99deg, #000 0, transparent 99.04%),
+    url("https://www.nasa.gov/wp-content/uploads/2023/11/201909-frontier-woodson-1318.webp");
+
+  height: 200px;
+  /* width: auto; */
+  background-size: cover;
+  margin-bottom: 8px;
+  /* padding: 74px; */
+  background-position: center;
+}
+
+.img4 {
+  background-image: linear-gradient(65.99deg, #000 0, transparent 99.04%),
+    url("https://smd-cms.nasa.gov/wp-content/uploads/2023/11/bps-background-1.png");
+
+  height: 200px;
+  /* width: auto; */
+  background-size: cover;
+  margin-bottom: 8px;
+  /* padding: 74px; */
+  background-position: center;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+.col {
+  float: left;
+  box-sizing: border-box;
+  padding: 10px;
+}
+.overflows {
+  overflow: hidden;
+}
+
+.width-sizing {
+  width: 25%;
+}
+.container {
+  width: 100%;
+  max-width: 1200px; /* Adjust the maximum width as needed */
+  margin: 0 auto; /* Center the container */
+  overflow: hidden; /* Clear floats */
+}
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+
+.svgFile {
+  display: flexbox;
+  flex-direction: column;
+  width: 15px;
+}
+
+.nasa {
+  position: relative;
+  left: 173px;
+}
+
+.header {
+  margin-top: 10px;
+}
+
+@media (min-width: 1400px) {
+  .container {
+    max-width: 1340px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1140px;
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    max-width: 1100px;
+  }
+  .fontSize22pxWhite {
+    font-size: 22px;
+  }
+}
+
+hr {
+  height: 0.1px;
+  background-color: gray !important;
+  border: none;
+}
+
+.showDisplay1024px{
+  display: none;
+}
+@media (max-width: 1024px) {
+  .row2 {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .width26 {
+    width: 45% !important;
+  }
+  .leftToright {
+    justify-content: left !important;
+    position: relative;
+    top: 0% !important;
+    margin-top: 21px;
+}
+  
+  
+   .leftToright1 {
+    justify-content: left !important;
+    position: relative;
+    top: 75px !important;
+    left: -288px;
+  }
+  
+  .nasar{
+    position: relative;
+    left: 173px !important;
+    /* top: -19px !important; */
+  }
+  .Srching{
+    position: relative !important;
+    /* top: -22px !important; */
+  }
+
+  .showDisplay1024px{
+    display: block;
+  }
+}
+@media (max-width: 992px) {
+  .fontSize22pxWhite {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  .col {
+    width: 50%;
+  }
+  .container {
+    max-width: 720px;
+  }
+  .widthmaintainer3 {
+    width: 100% !important;
+  }
+  .fontSize72pxWhite {
+    font-size: 44px;
+  }
+  .mediumPara {
+    width: 100% !important;
+  }
+  .mediaflexingwrap768px {
+    flex-wrap: wrap !important;
+  }
+  .width25 {
+    width: 45% !important;
+  }
+  .width26 {
+    width: 45% !important;
+  }
+  .NotShowmediaQ768{
+    display: none !important;
+  }
+  .ShowmediaQ768{
+    display: block !important;
+  }
+}
+
+@media (max-width: 575px) {
+  .col {
+    width: 100% !important;
+  }
+  .width25 {
+    width: 100% !important;
+  }
+  .width26 {
+    width: 100% !important;
+  }
+  .fontSize72pxWhite{
+    font-size: 28px;
+  }
+  .menuDisplay{
+    display: block !important;
+  }
+
+}
+
+.nav {
+  background-color: black;
+  color: white;
+  padding: 10px 0;
+  height: 90px;
+}
+
+.containerNav {
+  width: 90%;
+  margin: 10px auto;
+  overflow: hidden;
+}
+
+.nav ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  overflow: hidden;
+}
+
+.nav li {
+  display: inline;
+  margin-right: 20px;
+}
+
+.nav a {
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+}
+
+.menuSize {
+  width: 30px;
+  height: 20px;
+  display: none;
+  fill: azure;
+}
+
+.SearchIcon {
+  display: none;
+  fill: azure;
+  width: 30px;
+}
+
+.nav input {
+  padding: 8px;
+  font-size: 14px;
+}
+
+.nav img {
+  height: 50px;
+  vertical-align: middle;
+}
+
+.live {
+  background-color: #060606;
+  color: white;
+  border: red;
+  padding: 3px 10px;
+  font-size: 14px;
+  cursor: pointer;
+  /* border-block-color: red; */
+  border-style: groove;
+  border-block-color: red;
+}
+
+.live:hover {
+  background-color: red;
+}
+
+.bg_width {
+  background-image: linear-gradient(65.99deg, #000 0, transparent 99.04%),
+    url(https://www.nasa.gov/wp-content/uploads/2023/11/52504566415-ca962845e4-k.jpg?resize=2000,1333);
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  /* height: 1000px; */
+}
+
+@media (max-width: 1024px) {
+  .dispL {
+    display: none !important;
+  }
+  .SearchIcon {
+    display: block !important;
+  }
+  .menuSize {
+    display: block !important;
+  }
+  #checkbox, .btn span { /* Hide the checkbox input & word "Menu" in the button */
+    display: block !important;
+  }
+  .CheckedDsiplay{
+    display: block !important;
+  }
+}
+.nasar{
+
+}
+.Searcher {
+  flex-direction: row;
+}
+.Menu {
+}
+
+@media (max-width: 400px) {
+  .nasa {
+    position: relative;
+    left: 90px;
+  }
+}
+/* 
+@media screen and (max-width: 768px) {
+  .nav {
+    text-align: center;
+  }
+
+  .nav ul {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  .nav li {
+    display: block;
+    margin: 0;
+    margin-bottom: 10px;
+  }
+
+  .nav input {
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+  }
+
+  .nav img {
+    display: block;
+    margin: 0 auto;
+  }
+} */
+
+@media (max-width: 575px) {
+  .width100 {
+    width: 100% !important;
+  }
+}
+
+@media (max-width: 992px) {
+  .width100 {
+    width: 50%;
+  }
+  .coldupe {
+    width: 100% !important;
+  }
+  .mediaFlexWrap {
+    flex-wrap: wrap !important;
+  }
+  .colWidthAdjust1 {
+    max-width: 100% !important;
+  }
+  .colWidthAdjust2 {
+    max-width: 100% !important;
+  }
+  .satlate {
+    margin-top: 0px !important;
+  }
+  .last2ndImg1 {
+    width: 100% !important;
+  }
+  .last2ndImg2 {
+    width: 100% !important;
+  }
+ 
+}
+.Srching{
+
+}
+.mainHeader {
+  width: 50%;
+  text-align: left;
+  line-height: 50px;
+  margin-bottom: 80px;
+  margin-top: 200px;
+}
+.mediumPara {
+  line-height: 31px;
+  width: 50%;
+}
+
+.linkNasa {
+  margin-top: 18px;
+  margin-bottom: 50px;
+}
+.satlate {
+  /* height: auto; */
+  /* flex: auto; */
+  /* display: flex; */
+  /* flex-wrap: nowrap; */
+  /* flex-direction: row; */
+  padding: 10px;
+  margin-top: 50px;
+  max-width: 100%;
+  /* height: 595px; */
+}
+.para12 {
+  padding: 10px;
+  width: 100%;
+  line-height: 30px;
+}
+
+.mediaFlexWrap {
+}
+
+.colWidthAdjust1 {
+  max-width: 36%;
+}
+.colWidthAdjust2 {
+  max-width: 65%;
+}
+.divSatlate {
+  display: flex;
+  justify-content: center;
+}
+.flexAuto {
+  flex: 0 1 auto;
+}
+
+.fontStretch {
+}
+
+@media (max-width: 1150px) {
+  .fontStretch {
+    font-stretch: condensed;
+  }
+}
+
+.colSatLite {
+  float: left;
+  box-sizing: border-box;
+  padding: 15px;
+}
+
+.bg_width1 {
+  background-image: linear-gradient(65.99deg, #000 0, transparent 99.04%),
+    url(https://www.nasa.gov/wp-content/uploads/2023/11/eic-0410.jpg?resize=2000,1500);
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+}
+
+.imager1 {
+  background-image: linear-gradient(65.99deg, #000 0, transparent 99.04%),
+    url(https://www.nasa.gov/wp-content/uploads/2023/11/roscosmos-progress-86.jpg?resize=1024,575);
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 400px;
+}
+
+.imager2 {
+  background-image: linear-gradient(65.99deg, #000 0, transparent 99.04%),
+    url(https://www.nasa.gov/wp-content/uploads/2023/11/cop23-nelson.jpg?resize=1024,678);
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 400px;
+}
+
+.last2ndImg1 {
+  width: 60%;
+  margin: 10px;
+}
+.last2ndImg2 {
+  width: 40%;
+  margin: 10px;
+}
+.svgFile12 {
+  width: 20px;
+  height: 20px;
+  filter: invert(1);
+  margin-top: -10px;
+}
+
+.bottomer {
+  position: relative;
+  top: 200px;
+}
+
+.bg_width321 {
+  background-image: linear-gradient(65.99deg, #000 0, transparent 99.04%),
+    url(https://www.nasa.gov/wp-content/uploads/2023/01/webb-tarantula-neb.png?resize=2000,1561);
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+}
+
+.lastimg1 {
+  background-image: linear-gradient(65.99deg, #000 0, transparent 99.04%),
+    url(https://www.nasa.gov/wp-content/uploads/2022/08/jsc2022e046413_orig.jpg?resize=2000,1125);
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 450px;
+}
+
+.lastimg2 {
+  background-image: linear-gradient(65.99deg, #000 0, transparent 99.04%),
+    url(https://www.nasa.gov/wp-content/uploads/2021/03/topic-humans-in-space.jpg);
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 450px;
+}
+.margin10px {
+  margin: 10px;
+}
+
+.lastimg3 {
+  background-image: linear-gradient(65.99deg, #000 0, transparent 99.04%),
+    url(https://www.nasa.gov/wp-content/uploads/2023/03/maianse_nycalc_globe.jpg);
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 450px;
+}
+
+.lastimg4 {
+  background-image: linear-gradient(65.99deg, #000 0, transparent 99.04%),
+    url(https://www.nasa.gov/wp-content/uploads/2023/04/earth-at-night-north-america-east-coast.jpg);
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 450px;
+}
+
+.width25 {
+  width: 25%;
+}
+
+.width26 {
+  width: 25%;
+}
+
+.mediaflexingwrap768px {
+}
+
+@media (max-width: 575px) {
+  .fontSize22pxWhite {
+    font-size: 18px;
+  }
+}
+
+.bg-black {
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  /* height: 450px; */
+  background-color: #000;
+}
+.nasa1 {
+  /* width: 25px; */
+  height: 50px;
+  float: left;
+}
+.containPD10 {
+  padding: 20px;
+}
+.lineHeight30 {
+  line-height: 30px;
+}
+.lineHeight20 {
+  line-height: 20px;
+}
+.width47 {
+  width: 47%;
+}
+.icon121 {
+  width: 25px;
+  height: 20px;
+}
+.bg_grey {
+  background-color: #2e2e32;
+  border-radius: 20px;
+}
+.margin5px {
+  margin: 5px;
+}
+.hoverStylingDash {
+  cursor: pointer;
+}
+.hoverStylingDash:hover {
+  text-decoration: underline dashed;
+  text-decoration-color: #b9b9bb;
+}
+
+.submit_data {
+  padding: 5px;
+}
+.paddingTop2Px {
+  padding-top: 2px !important;
+}
+
+.linkArrow {
+  fill: #f64137;
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
+}
+
+.padding_top8px {
+  padding-top: 8px !important;
+}
+.positionBottom {
+  position: relative;
+  bottom: -370px;
+}
+
+.FirstHeader{
+  width: 47%;
+  padding: 20px;
+  padding-bottom: 0px;
+  position: relative;
+  top: 70px;
+}
+
+.SecondPara{
+  padding: 20px;
+  width: 54%;
+  padding-top: 5px;
+  position: relative;
+  top: 90px;
+
+}
+.thirdButton{
+  padding: 20px;
+  /* padding-top: 1px; */
+  position: relative;
+  /* bottom: -110px; */
+  /* margin-bottom: 30px; */
+  margin-top: 78px;
+  /* margin-bottom: 30px; */
+}
+
+.redButton{
+  background-color: #d83933;
+  padding: 20px;
+  width: auto;
+  /* height: 50px; */
+  border-radius: 10px;
+  border: none;
+/* height:50px; */
+}
+.redButton:hover{
+  background-color: #81201d;
+}
+
+.NotShowmediaQ768{
+ 
+}
+.ShowmediaQ768{
+ display: none;
+}
+
+
+/*========Slide====== */
+@import url('https://fonts.googleapis.com/css?family=Merriweather:900&display=swap');
+
+:root {
+  --color-primary: #002626;
+  --color-secondary: #F0F7EE;
+  --duration: 1s;
+  --nav-duration: calc(var(--duration) / 4);
+  --ease: cubic-bezier(0.215, 0.61, 0.355, 1);
+  --space: 1rem;
+  --font-primary: 'Helvetica', sans-serif;
+  --font-heading: 'Merriweather', serif;
+  --font-size: 1.125rem;
+  --line-height: 1.5;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-primary);
+  font-size: var(--font-size);
+  line-height: var(--line-height);
+}
+
+h1 {
+  margin-bottom: calc(var(--space) * 3);
+  font-family: var(--font-heading);
+  font-size: calc(var(--font-size) + 6vmin);
+  line-height: calc(var(--line-height) / 1.25);
+}
+
+.main-navigation-toggle {
+  position: fixed;
+  height: 1px; 
+  width: 1px;
+  overflow: hidden;
+  clip: rect(1px, 1px, 1px, 1px);
+  white-space: nowrap;
+  
+  + label {
+    position: absolute;
+    top: calc(var(--space) * 1.5);
+    /* right: calc(var(--space) * 2); */
+    cursor: pointer;
+    z-index: 2;
+    padding-left: 15px;
+  }
+}
+
+.icon--menu-toggle {
+  --size: calc(1rem + 4vmin);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: var(--size);
+  height: var(--size);
+  stroke-width: 6;
+  filter: invert(1);
+}
+
+.icon-group {
+  transform: translateX(0);
+  transition: transform var(--nav-duration) var(--ease);
+}
+
+.icon--menu {
+  stroke: var(--color-primary);
+}
+
+.icon--close {
+  stroke: #000000;
+  transform: translateX(-100%);
+}
+
+.main-navigation {
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  transform: translateX(-100%);
+  transition: transform var(--nav-duration);
+  z-index: 1;
+  
+  &:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #000000;
+    transform-origin: 0 50%;
+    z-index: -1;
+  }
+  
+  ul {
+    font-size: 12vmin;
+    font-family: var(--font-heading);
+    width: 100%;
+  }
+  
+  li {
+    --border-size: 1vmin;
+    display: flex;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+    
+    &:after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: var(--border-size);
+      background-color: var(--color-secondary);
+      transform-origin: 0 50%;
+      transform: translateX(-100%) skew(15deg);
+    }
+  }
+  
+  a {
+    display: inline-block;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    color: var(--color-secondary);
+    line-height: 1;
+    text-decoration: none;
+    user-select: none;
+    padding: var(--space) calc(var(--space) * 2) calc(var(--space) + var(--border-size) / 2);
+    transform: translateY(100%);
+  }
+}
+
+.main-content {
+  margin: 6rem auto;
+  max-width: 70ch;
+  padding: 0 calc(var(--space) * 2);
+  transform: translateX(0);
+  transition: transform calc(var(--nav-duration) * 2) var(--ease);
+  
+  > * + * {
+    margin-top: calc(var(--space) * var(--line-height));
+  }
+}
+
+.main-navigation-toggle:checked {
+  ~ label .icon--menu-toggle {    
+    .icon-group {
+      transform: translateX(100%);
+    }
+  }
+  
+  ~ .main-content {
+    transform: translateX(10%);
+  }
+  
+  ~ .main-navigation {
+    transition-duration: 0s;
+    transform: translateX(0);
+    
+    &:after {
+      animation: nav-bg var(--nav-duration) var(--ease) forwards;
+    }
+    
+    li:after {
+      animation: nav-line var(--duration) var(--ease) forwards;
+    }
+    
+    a {
+      animation: link-appear calc(var(--duration) * 1.5) var(--ease) forwards;
+    }
+    
+    @for $i from 1 through 4 {
+      li:nth-child(#{$i}) {
+        &:after, a {
+          animation-delay: calc((var(--duration) / 2) * #{$i} * 0.125);
+        }
+      }
+    }
+  }
+}
+
+@keyframes nav-bg {
+  from { transform: translateX(-100%) skewX(-15deg) }
+  to { transform: translateX(0) }
+}
+
+@keyframes nav-line {
+  0%   { transform: scaleX(0); transform-origin: 0 50%; }
+  35%  { transform: scaleX(1.001); transform-origin: 0 50%; }
+  65%  { transform: scaleX(1.001); transform-origin: 100% 50%; }
+  100% { transform: scaleX(0); transform-origin: 100% 50%; }
+}
+
+@keyframes link-appear {
+  0%, 25%   { transform: translateY(100%); }
+  50%, 100% { transform: translateY(0); }
+}

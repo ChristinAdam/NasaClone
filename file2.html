@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="form.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+    
+    <div class="container">
+        <div class="title">
+            Registration
+        </div>
+        <form id="submit-form">
+            <div class="user-details">
+                <div class="input-box">
+                    <span class="detailes">FullName</span>
+                    <input name="Fname"  type="text" placeholder="Enter your Name" required>
+                </div>
+                <div class="input-box">
+                    <span class="detailes">UserName</span>
+                    <input name="Uname" type="text" placeholder="Enter your Name" required>
+                </div>
+                <div class="input-box">
+                    <span class="detailes">PhoneNumber</span>
+                    <input name="Phnumber" type="text" placeholder="Enter your Name" required>
+                </div>
+                <div class="input-box">
+                    <span class="detailes">Password</span>
+                    <input name="PSW" type="text" placeholder="Enter your Name" required>
+                </div>
+                <div class="input-box">
+                    <span class="detailes">Confirm Password</span>
+                    <input name="Cpsw" type="text" placeholder="Enter your name" required>
+
+                </div>
+            </div>
+            
+                <div class="button">
+                    <input type="submit" value="Register">
+                </div>
+            </div>
+
+            
+        </form>
+    </div>
+
+
+
+    <script>
+        $("#submit-form").submit((e)=>{
+            e.preventDefault()
+            $.ajax({
+                url:"https://script.google.com/macros/s/AKfycbxuBWVnpU3Z-3nt_d_mCvJPepVmGX9oEyAl_brPjD2t75zTWBiSHgcwuFqYLQRy6rndkQ/exec",
+                data:$("#submit-form").serialize(),
+                method:"post",
+                success:function (response){
+                    alert("Form submitted successfully")
+                    window.location.reload()
+                    //window.location.href="https://google.com"
+                },
+                error:function (err){
+                    alert("Something Error")
+    
+                }
+            })
+        })
+    </script>
+</body>
+</html>
